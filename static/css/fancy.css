@@ -1,0 +1,36 @@
+.fruits{
+    background-color: orange;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: Garamond;
+
+}
+.cars{
+    background-color: khaki;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: Dialog;
+}
+.FRUITS{
+    background-color: #8b0025;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Juice ITC";
+
+}
+#computer{
+    background-color: #8b6400;
+    text-align: center;
+    font-size: larger;
+    font-family: Algerian, serif;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
+}

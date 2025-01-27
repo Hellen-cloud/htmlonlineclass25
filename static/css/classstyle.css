@@ -1,0 +1,29 @@
+.containers{
+    padding: 20px;
+    background-color: #8b0025;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+
+
+}
+.header{
+    font-family: Dialog;
+    text-align: center;
+    color: #008b76;
+}
+.content{
+    font-family: Dialog;
+    line-height: 1.6;
+    color: #27008b;
+}
+.content-highlight{
+    font-family: Dialog;
+    color: #ff00e5;
+    line-height: 1.2em;
+}
+#my_id{
+    text-align: center;
+    font-size: 1.2em;
+    color: orange;
+}
